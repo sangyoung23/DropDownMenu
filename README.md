@@ -1,1 +1,2 @@
-# DropDownMenu
+Dom에 관해 좀 더 알아보고 연습해보기 위해서 사용자들이 자주 사용하는
+dropdownmenu를 만들어 보았습니다.
